@@ -2,6 +2,7 @@ sword and spear
 wall of shields
 standing strong
 on this their chosen battle field
+<<<<<<< HEAD
 
 form the lines
 shield by shield
@@ -13,3 +14,4 @@ don't look back
 Oden's sons
 attack!
 -----------------------------
+
